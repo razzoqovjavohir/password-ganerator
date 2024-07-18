@@ -4,7 +4,7 @@ Galaosiyo shahridagi IT center da o'quvchilar bilan birga qurilgan proyect!
 
 ## link
 
-[Websayt linki][https://razzoqovjavohir.github.io/password-ganerator/]
+[Websayt linki](https://razzoqovjavohir.github.io/password-ganerator/)
 
 ## Ishlatilgan tillar
 
